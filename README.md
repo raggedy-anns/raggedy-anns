@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="200" height="1000" alt="1000002288" src="https://github.com/user-attachments/assets/abf92324-6751-4f16-b515-5fea7b6d0326" />
+
 
 <!--
 **raggedy-anns/raggedy-anns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
